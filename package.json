@@ -2,7 +2,7 @@
   "name": "burgers-with-handlebars",
   "version": "1.0.0",
   "description": "Handlebars app with MySQL",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "npm test"
   },
@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/rureed/Burgers-With-Handlebars/issues"
   },
-  "homepage": "https://github.com/rureed/Burgers-With-Handlebars#readme"
+  "homepage": "https://github.com/rureed/Burgers-With-Handlebars#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
 }
