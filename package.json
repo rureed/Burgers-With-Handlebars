@@ -1,0 +1,23 @@
+{
+  "name": "burgers-with-handlebars",
+  "version": "1.0.0",
+  "description": "Handlebars app with MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rureed/Burgers-With-Handlebars.git"
+  },
+  "keywords": [
+    "handlebars",
+    "mysql"
+  ],
+  "author": "rureed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rureed/Burgers-With-Handlebars/issues"
+  },
+  "homepage": "https://github.com/rureed/Burgers-With-Handlebars#readme"
+}
