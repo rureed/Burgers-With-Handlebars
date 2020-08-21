@@ -4,6 +4,7 @@
   "description": "Handlebars app with MySQL",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js"
   },
 
   "author": "rureed",
