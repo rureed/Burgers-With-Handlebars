@@ -1,3 +1,4 @@
+INSERT INTO burgers (burgerName, devoured) VALUES ("Cheese Burger", FALSE);
 INSERT INTO burgers (burgerName, devoured) VALUES ("House Special", FALSE);
 INSERT INTO burgers (burgerName, devoured) VALUES ("Rodeo Rage", FALSE);
 INSERT INTO burgers (burgerName, devoured) VALUES ("Mushroom Madness", FALSE);
